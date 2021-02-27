@@ -32,11 +32,11 @@ export default function About(props) {
               <br />
               <br />
               On every project I work on, I strive to build products that
-              provide pixel-perfect, optimized, performant experiences. <br />
+              provide pixel-perfect, optimized, performant experiences. 
               <br />
-             
+              <br />
+              <br />
             </Paragraph>
-           
           </LeftContainer>
           <RightContainer>
           Here are a few skills I&#x27;ve been using recently:

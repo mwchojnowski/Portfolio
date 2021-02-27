@@ -32,11 +32,11 @@ export default function Hero(props) {
             applications and everything in between!
           </Paragraph>
           <ButtonsContainer>
-            <OutlineButton href="" target="_blank">
+            <OutlineButton href="./Mateusz_Chojnowski_Resume.pdf" target="_blank">
               View Resume
             </OutlineButton>
             <FillButton href="mailto: mateusz.w.chojnowski@gmail.com">
-              Hire me!
+              Email me
             </FillButton>
           </ButtonsContainer>
         </LeftContainer>
