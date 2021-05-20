@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     laptop: `(max-width: 991px)`,
     primary: "rgb(200,8,21)",
     text: "#314455",
-    background: "#E8E8E8",
+    background: "#FFFFFF",
   };
 
   return (
