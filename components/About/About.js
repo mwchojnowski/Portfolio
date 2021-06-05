@@ -39,7 +39,7 @@ export default function About(props) {
             </Paragraph>
           </LeftContainer>
           <RightContainer>
-          Here are a few skills I&#x27;ve been using recently:
+          Here are a few technologies I&#x27;ve been using recently:
           <List>
               <ListItem>
                 <BulletPoint src="/Bullet-Point.svg" />
